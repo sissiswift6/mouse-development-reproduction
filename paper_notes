@@ -4,7 +4,12 @@ single-cell indexing
 ↓
 alignment
 ↓
-QC
+QC  ：
+Harmony embedding和论文结果不一致
+Possible reasons:
+1. PCA维度不同
+2. HVG数量不同
+3. batch_key不同
 ↓
 cell annotation
 ↓
