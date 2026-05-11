@@ -1,0 +1,17 @@
+Raw FASTQ
+↓
+single-cell indexing
+↓
+alignment
+↓
+QC
+↓
+cell annotation
+↓
+trajectory inference
+↓
+temporal alignment
+↓
+lineage reconstruction
+↓
+visualization
